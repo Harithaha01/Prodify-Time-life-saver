@@ -1,0 +1,6 @@
+{
+  "name": "Prodify",
+  "description": "Accelerate Your Execution. A modern AI-powered productivity hub designed to predict deadline risks, generate recovery plans, and coach you to completion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
